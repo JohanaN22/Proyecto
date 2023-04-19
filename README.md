@@ -1,2 +1,2 @@
-# Practica de TCP/MODELO OSI
+# Practica de TCP/OSI
 ## Modelo OSI
